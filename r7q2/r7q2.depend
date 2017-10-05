@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1507038492 source:/home/aluno/Desktop/r7q2/main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Consultor.h"
+
+1507037452 source:/home/aluno/Desktop/r7q2/src/Funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+
+1507037432 /home/aluno/Desktop/r7q2/include/Funcionario.h
+	<iostream>
+
+1507037823 source:/home/aluno/Desktop/r7q2/src/Consultor.cpp
+	"Consultor.h"
+
+1507038378 /home/aluno/Desktop/r7q2/include/Consultor.h
+	"Funcionario.h"
+
+1507078933 source:c:\users\dell\desktop\pasta sem título\r7q2\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Consultor.h"
+
+1507037432 c:\users\dell\desktop\pasta sem título\r7q2\include\funcionario.h
+	<iostream>
+
+1507078965 c:\users\dell\desktop\pasta sem título\r7q2\include\consultor.h
+	"Funcionario.h"
+
+1507037452 source:c:\users\dell\desktop\pasta sem título\r7q2\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+
+1507078933 source:c:\users\dell\desktop\pasta sem título\r7q2\src\consultor.cpp
+	"Consultor.h"
+
+1507037452 source:c:\users\dell\desktop\program\ide\roteiro 7\r7q2\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+
+1507156391 c:\users\dell\desktop\program\ide\roteiro 7\r7q2\include\funcionario.h
+	<iostream>
+
+1507156930 source:c:\users\dell\desktop\program\ide\roteiro 7\r7q2\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Consultor.h"
+
+1507156439 c:\users\dell\desktop\program\ide\roteiro 7\r7q2\include\consultor.h
+	"Funcionario.h"
+
+1507156790 source:c:\users\dell\desktop\program\ide\roteiro 7\r7q2\src\consultor.cpp
+	"Consultor.h"
+

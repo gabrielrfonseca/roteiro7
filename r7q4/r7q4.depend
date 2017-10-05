@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1507035972 source:/home/aluno/Desktop/r7q4/main.cpp
+	<iostream>
+
+1507164453 source:c:\users\dell\desktop\program\ide\roteiro 7\r7q4\main.cpp
+	<iostream>
+	"Trabalhador.h"
+	"TrabalhadorAssalariado.h"
+	"TrabalhadorPorHora.h"
+
+1507164383 c:\users\dell\desktop\program\ide\roteiro 7\r7q4\include\trabalhador.h
+
+1507163328 c:\users\dell\desktop\program\ide\roteiro 7\r7q4\include\trabalhadorassalariado.h
+	"Trabalhador.h"
+
+1507163328 c:\users\dell\desktop\program\ide\roteiro 7\r7q4\include\trabalhadorporhora.h
+	"Trabalhador.h"
+
+1507164453 source:c:\users\dell\desktop\program\ide\roteiro 7\r7q4\src\trabalhador.cpp
+	"Trabalhador.h"
+
+1507163511 source:c:\users\dell\desktop\program\ide\roteiro 7\r7q4\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1507164462 source:c:\users\dell\desktop\program\ide\roteiro 7\r7q4\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+

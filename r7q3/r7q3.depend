@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1507159263 source:c:\users\dell\desktop\program\ide\roteiro 7\r7q3\main.cpp
+	<iostream>
+	"Medico.h"
+	"Cirurgiao.h"
+	"Oftalmologista.h"
+	"Otorrino.h"
+	"Ginecologista.h"
+
+1507158931 source:c:\users\dell\desktop\program\ide\roteiro 7\r7q3\src\cirurgiao.cpp
+	"Cirurgiao.h"
+
+1507158820 c:\users\dell\desktop\program\ide\roteiro 7\r7q3\include\cirurgiao.h
+	"Medico.h"
+
+1507158931 source:c:\users\dell\desktop\program\ide\roteiro 7\r7q3\src\ginecologista.cpp
+	"Ginecologista.h"
+
+1507158820 c:\users\dell\desktop\program\ide\roteiro 7\r7q3\include\ginecologista.h
+	"Medico.h"
+
+1507159245 c:\users\dell\desktop\program\ide\roteiro 7\r7q3\include\medico.h
+	<iostream>
+
+1507159288 source:c:\users\dell\desktop\program\ide\roteiro 7\r7q3\src\medico.cpp
+	"Medico.h"
+	<iostream>
+
+1507158931 source:c:\users\dell\desktop\program\ide\roteiro 7\r7q3\src\oftalmologista.cpp
+	"Oftalmologista.h"
+
+1507158820 c:\users\dell\desktop\program\ide\roteiro 7\r7q3\include\oftalmologista.h
+	"Medico.h"
+
+1507158931 source:c:\users\dell\desktop\program\ide\roteiro 7\r7q3\src\otorrino.cpp
+	"Otorrino.h"
+
+1507158820 c:\users\dell\desktop\program\ide\roteiro 7\r7q3\include\otorrino.h
+	"Medico.h"
+

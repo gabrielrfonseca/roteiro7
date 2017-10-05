@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1507077383 source:c:\users\dell\desktop\pasta sem título\r7q1\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Quadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+
+1507077336 c:\users\dell\desktop\pasta sem título\r7q1\include\figurageometrica.h
+	<iostream>
+
+1507077128 c:\users\dell\desktop\pasta sem título\r7q1\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1507077392 c:\users\dell\desktop\pasta sem título\r7q1\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1507077128 c:\users\dell\desktop\pasta sem título\r7q1\include\circulo.h
+	"FiguraGeometrica.h"
+
+1507077128 source:c:\users\dell\desktop\pasta sem título\r7q1\src\circulo.cpp
+	"Circulo.h"
+
+1507077434 source:c:\users\dell\desktop\pasta sem título\r7q1\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1507077128 source:c:\users\dell\desktop\pasta sem título\r7q1\src\quadrado.cpp
+	"Quadrado.h"
+
+1507077128 source:c:\users\dell\desktop\pasta sem título\r7q1\src\triangulo.cpp
+	"Triangulo.h"
+
